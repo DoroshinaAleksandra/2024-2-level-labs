@@ -548,7 +548,6 @@ class KMeans:
         return True
 
 
-
 class ClusteringSearchEngine:
     """
     Engine based on KMeans algorithm.
